@@ -108,6 +108,7 @@
     font-weight: 400;
     font-size: 18px;
     color: #000000;
+    margin-left: 50px;
 }
 
 .colce {
@@ -377,6 +378,18 @@ p {
 
 .card-foot {
     margin-top: 5px;
+}
+
+
+.colce {
+    width: 293px;
+}
+
+.jhi {
+    margin-right: 40px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
 }
 
 @media (max-width: 575px) {
