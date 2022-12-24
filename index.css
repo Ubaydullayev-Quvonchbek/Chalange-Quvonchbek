@@ -611,4 +611,74 @@ p {
         text-align: center;
         margin-bottom: 15px;
     }
+
+    .kat {
+        padding: 11px 26px;
+    }
+
+    .y {
+        padding: 5px;
+    }
+
+    .b {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+        border: 2px solid #3F69FF;
+        border-radius: 5px;
+        padding: 8px 0px;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .fdgre {
+        margin-bottom: 20px;
+    }
+
+    .big_card {
+        background: #F8F8F8;
+        border: 1px solid #9B9B9B;
+        border-radius: 5px;
+        padding: 15px 6px;
+        margin-top: 0px;
+    }
+
+    .pos-bot {
+        text-align: center;
+    }
+
+    .dfdcd2 {
+        font-weight: 500;
+        font-size: 16px;
+        color: #000000;
+        margin-bottom: 17px;
+    }
+
+    .dfdcd3 {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+    }
+
+    .dfdc4d {
+        font-weight: 400;
+        font-size: 18px;
+        color: #0A1539;
+        margin-top: 20px;
+    }
+
+    .pos-top {
+        position: relative;
+    }
+
+    .gyuugy {
+        position: absolute;
+        right: 17px;
+        top: 85px;
+    }
+
+    .grfre {
+        margin-bottom: 20px;
+    }
 }
