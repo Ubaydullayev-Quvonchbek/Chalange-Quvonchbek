@@ -340,43 +340,44 @@ p {
     margin-bottom: 45px;
 }
 
+.Лента {
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+}
 
+.card-top {
+    text-align: center;
+}
 
+.cardgr {
+    width: 270px;
+    background: #FBFBFB;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    padding: 0 30px 18px 30px;
+    margin-bottom: 30px;
+}
 
+.seven {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
 
+.корзинуs {
+    font-weight: 400;
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #3F69FF;
+    border-radius: 2px;
+    padding: 11px 27px;
+    border: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.card-foot {
+    margin-top: 5px;
+}
 
 @media (max-width: 575px) {
     .Безупречные {
@@ -680,5 +681,33 @@ p {
 
     .grfre {
         margin-bottom: 20px;
+    }
+
+    .Лента {
+        font-weight: 400;
+        font-size: 15px;
+        color: #000000;
+    }
+
+    .seven {
+        font-weight: 500;
+        font-size: 12px;
+        margin: 0;
+        color: #000000;
+    }
+
+    .cardgr {
+        width: 100%;
+        height: auto;
+        padding: 0 8px 18px 8px;
+    }
+
+    .корзинуs {
+        font-weight: 500;
+        font-size: 9px;
+        color: #FFFFFF;
+        background: #3F69FF;
+        border-radius: 2px;
+        padding: 6px 9px;
     }
 }
