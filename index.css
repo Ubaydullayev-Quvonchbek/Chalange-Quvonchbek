@@ -58,6 +58,12 @@
     margin-bottom: 35px;
 }
 
+.btnrre {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
 .top-div2 {
     margin-bottom: 20px;
 }
@@ -73,7 +79,8 @@
 }
 
 .mr232 {
-    margin-right: 50px;
+    margin-left: 50px;
+    cursor: pointer;
 }
 
 .jhi {
@@ -109,6 +116,7 @@
 
 .nav2 {
     margin-top: 42px;
+    margin-bottom: 30px;
 }
 
 .carousel-item {
@@ -297,6 +305,10 @@ p {
 
 .footer1 {
     background: #232323;
+}
+
+.logo {
+    cursor: pointer;
 }
 
 .logod {
@@ -517,19 +529,86 @@ p {
         margin: auto;
     }
 
-    .hds{
+    .hds {
         width: 100%;
         margin: auto;
         text-align: center;
     }
 
-    .byu{
+    .byu {
         text-align: center;
     }
-    .hu2{
+
+    .hu2 {
         text-align: center;
     }
-    .hu{
+
+    .hu {
         text-align: center;
+    }
+
+    .card2 {
+        text-align: center;
+    }
+
+    .fg {
+        font-weight: 500;
+        font-size: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .logod {
+        text-align: center;
+    }
+
+    .ugygyu {
+        margin-bottom: 30px;
+    }
+
+    .icsd {
+        font-weight: 500;
+        font-size: 14px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .sect6 {
+        background: #07032E;
+        margin-bottom: 20px;
+    }
+
+    .dggg {
+        margin-bottom: 40px;
+    }
+
+    .new {
+        font-weight: 700;
+        font-size: 36px;
+        color: #000000;
+        text-align: center;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .brer {
+        font-weight: 700;
+        font-size: 36px;
+        color: #000000;
+        text-align: center;
+        margin-top: 37px;
+        margin-bottom: 37px;
+    }
+
+    .ddf {
+        font-weight: 400;
+        font-size: 15px;
+        color: #515151;
+        margin-bottom: 30px;
+    }
+
+    .bhjjbh {
+        text-align: center;
+        margin-bottom: 15px;
     }
 }
