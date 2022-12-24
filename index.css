@@ -1,0 +1,535 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.nav1 {
+    margin-top: 40px;
+}
+
+.комплексное {
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+
+.btn1 {
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    background: #3F69FF;
+    border-radius: 5px;
+    padding: 11px 25px;
+    border: none;
+}
+
+.Безупречные {
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+}
+
+
+.kat {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: #3F69FF;
+    border-radius: 5px;
+    padding: 11px 43px;
+    border: none;
+    margin-right: 11px;
+}
+
+.y {
+    border: 2px solid #3F69FF;
+    border-radius: 3px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #ACACAC;
+    padding: 6px 164px 8px 18px;
+}
+
+.top-div {
+    margin-bottom: 35px;
+}
+
+.top-div2 {
+    margin-bottom: 20px;
+}
+
+.b {
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    border: 2px solid #3F69FF;
+    border-radius: 5px;
+    padding: 9px 25px;
+
+}
+
+.mr232 {
+    margin-right: 50px;
+}
+
+.jhi {
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.ni {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+    margin-right: 73px;
+
+}
+
+.opt {
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.mos {
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.colce {
+    width: 100%;
+}
+
+.nav2 {
+    margin-top: 42px;
+}
+
+.carousel-item {
+    position: relative;
+}
+
+.carousel-bg {
+    position: absolute;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+}
+
+.комплексное {
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-bottom: 40px;
+}
+
+.btn1 {
+    margin-left: 230px;
+}
+
+header {
+    margin-bottom: 37px;
+}
+
+.категории {
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+}
+
+.VHB {
+    font-weight: 700;
+    font-size: 30px;
+    color: #282828;
+    text-align: center;
+}
+
+.cards-div {
+    width: 100%;
+}
+
+.c-top {
+    text-align: center;
+}
+
+.sect2 {
+    background: #F7F7F7;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.pock {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.card2 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.v {
+    margin-bottom: 60px;
+}
+
+.Получите {
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 70px;
+}
+
+.inpot {
+    border: 1px solid #999999;
+    border-radius: 5px;
+    padding: 14px 311px 13px 15px;
+    margin-bottom: 15px;
+}
+
+.ddf {
+    font-weight: 400;
+    font-size: 15px;
+    color: #515151;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.bfgb {
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    background: #3F69FF;
+    border-radius: 5px;
+    border: none;
+    padding: 15px 57px;
+    margin-top: 9px;
+}
+
+.brer {
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 37px;
+}
+
+.dggg {
+    margin-bottom: 120px;
+}
+
+.his {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.new {
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+.sect6 {
+    background: #07032E;
+    margin-bottom: 120px;
+}
+
+.fg {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.ewf {
+    font-weight: 400;
+    font-size: 15px;
+    color: #878787;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    padding: 18px;
+    margin-bottom: 50px;
+}
+
+.rf {
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    background: #3F69FF;
+    border-radius: 5px;
+    padding: 17px;
+    width: 100%;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.def {
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.footer1 {
+    background: #232323;
+}
+
+.logod {
+    margin-top: 80px;
+    width: 100%;
+}
+
+.hu2 {
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.hu {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #FFFFFF;
+}
+
+
+.byu {
+    margin-bottom: 35px;
+}
+
+.ugy {
+    margin-bottom: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575px) {
+    .Безупречные {
+        font-weight: 500;
+        font-size: 18px;
+        color: #000000;
+    }
+
+    .io {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+    }
+
+    .nff {
+        font-weight: 400;
+        font-size: 18px;
+        color: #0A1539;
+    }
+
+    .all-sd {
+        position: relative;
+    }
+
+
+    .ygvu {
+        width: 100%;
+        text-align: end;
+        position: absolute;
+        top: 45px;
+    }
+
+
+    .imgs {
+        width: 100%;
+    }
+
+    .mr232 {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .ic-div {
+        width: 110%;
+    }
+
+    .e {
+        margin-right: 10px;
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+    }
+
+    .e2 {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+    }
+
+    .b {
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+        border: 2px solid #3F69FF;
+        border-radius: 5px;
+        padding: 10px 4px;
+        width: 100%;
+    }
+
+    .nav2 {
+        margin-top: 20px;
+    }
+
+    .Корона {
+        font-weight: 700;
+        font-size: 20px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .big_card {
+        background: #F8F8F8;
+        border: 1px solid #9B9B9B;
+        border-radius: 5px;
+        padding: 15px 6px;
+        margin-top: 20px;
+    }
+
+    .bhjjbh {
+        text-align: center;
+    }
+
+    .категории {
+        font-weight: 500;
+        font-size: 25px;
+        color: #000000;
+    }
+
+    .VHB {
+        font-weight: 500;
+        font-size: 20px;
+        color: #282828;
+    }
+
+    .pock {
+        font-weight: 500;
+        font-size: 25px;
+        color: #000000;
+    }
+
+    .dffs {
+        display: block;
+    }
+
+    .fogl {
+        font-weight: 500;
+        font-size: 18px;
+        color: #000000;
+    }
+
+    .gogl {
+        font-weight: 400;
+        font-size: 12px;
+        color: #000000;
+    }
+
+    .cafetxtx {
+        width: 100%;
+    }
+
+    .ffd {
+        padding-bottom: 25px;
+    }
+
+    .inpot {
+        width: 100%;
+        border: 1px solid #999999;
+        border-radius: 5px;
+        margin: auto;
+        margin-bottom: 15px;
+        padding: 14px;
+    }
+
+    .ddf {
+        text-align: center;
+    }
+
+    .bfgb {
+        width: 100%;
+        margin: auto;
+    }
+
+    .hds{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .byu{
+        text-align: center;
+    }
+    .hu2{
+        text-align: center;
+    }
+    .hu{
+        text-align: center;
+    }
+}
