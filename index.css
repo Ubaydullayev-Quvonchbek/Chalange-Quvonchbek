@@ -476,7 +476,7 @@ h6 {
     height: 100%;
 }
 
-.dgdfgfffsdfsdfa{
+.dgdfgfffsdfsdfa {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -858,5 +858,9 @@ h6 {
     .ffgeefer {
         display: flex;
         justify-content: center;
+    }
+
+    .ioklos {
+        margin-bottom: 15px;
     }
 }
