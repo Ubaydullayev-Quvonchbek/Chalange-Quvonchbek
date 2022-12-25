@@ -599,7 +599,7 @@ h6 {
     }
 
     .dffs {
-        display: block;
+        display: flex;
     }
 
     .fogl {
@@ -862,5 +862,11 @@ h6 {
 
     .ioklos {
         margin-bottom: 15px;
+    }
+
+    .hammaols{
+        width: 100%;
+        text-align: center;
+        margin: auto;
     }
 }
